@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "product": "Popcorn",
+    "category": "Food",
+    "size": "Small",
+    "price": 3.99
+  },
+  {
+    "id": 2,
+    "product": "Popcorn",
+    "category": "Food",
+    "size": "Medium",
+    "price": 5.99
+  },
+  {
+    "id": 3,
+    "product": "Popcorn",
+    "category": "Food",
+    "size": "Large",
+    "price": 6.49
+  },
+  {
+    "id": 4,
+    "product": "Sweet Popcorn",
+    "category": "Food",
+    "size": "Small",
+    "price": 3.99
+  },
+  {
+    "id": 5,
+    "product": "Sweet Popcorn",
+    "category": "Food",
+    "size": "Medium",
+    "price": 5.99
+  },
+  {
+    "id": 6,
+    "product": "Sweet Popcorn",
+    "category": "Food",
+    "size": "Large",
+    "price": 6.49
+  },
+  {
+    "id": 7,
+    "product": "Tortillas",
+    "category": "Food",
+    "size": "Small",
+    "price": 3.49
+  },
+  {
+    "id": 8,
+    "product": "Tortillas",
+    "category": "Food",
+    "size": "Medium",
+    "price": 5.49
+  },
+  {
+    "id": 9,
+    "product": "Tortillas",
+    "category": "Food",
+    "size": "Large",
+    "price": 5.99
+  },
+  {
+    "id": 10,
+    "product": "Slammer Energy",
+    "category": "Drink",
+    "size": "250ml",
+    "price": 2.0
+  },
+  {
+    "id": 11,
+    "product": "Monster Energy",
+    "category": "Drink",
+    "size": "500ml",
+    "price": 3.0
+  },
+  {
+    "id": 12,
+    "product": "Coca-Cola",
+    "category": "Drink",
+    "size": "Small",
+    "price": 2.99
+  },
+  {
+    "id": 13,
+    "product": "Coca-Cola",
+    "category": "Drink",
+    "size": "Medium",
+    "price": 4.99
+  },
+  {
+    "id": 14,
+    "product": "Coca-Cola",
+    "category": "Drink",
+    "size": "Large",
+    "price": 5.49
+  },
+  {
+    "id": 15,
+    "product": "Fanta",
+    "category": "Drink",
+    "size": "Small",
+    "price": 2.99
+  },
+  {
+    "id": 16,
+    "product": "Fanta",
+    "category": "Drink",
+    "size": "Medium",
+    "price": 4.99
+  },
+  {
+    "id": 17,
+    "product": "Fanta",
+    "category": "Drink",
+    "size": "Large",
+    "price": 5.49
+  },
+  {
+    "id": 18,
+    "product": "Sprite",
+    "category": "Drink",
+    "size": "Small",
+    "price": 2.99
+  },
+  {
+    "id": 19,
+    "product": "Sprite",
+    "category": "Drink",
+    "size": "Medium",
+    "price": 4.99
+  },
+  {
+    "id": 20,
+    "product": "Marlboro Gold",
+    "category": "Abduls Speciality",
+    "size": "20 stuks",
+    "price": 9999
+  },
+  {
+    "product": "Cheetos",
+    "category": "Food",
+    "size": "Medium",
+    "price": 40.0,
+    "id": 21
+  },
+  {
+    "id": 22,
+    "product": "wiktor",
+    "category": "Food",
+    "size": "Large",
+    "price": 30.0
+  }
+]

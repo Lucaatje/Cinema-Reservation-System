@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "Frozen-20240613-1800-Auditorium 1.json",
+    "movieTitle": "Frozen",
+    "Year": 0,
+    "Genre": "",
+    "displayTime": "2024-06-13T18:00:00",
+    "auditorium": "Auditorium 1",
+    "LowPrice": 5.0,
+    "MediumPrice": 10.0,
+    "HighPrice": 15.0,
+    "HandicapPrice": 13.0
+  },
+  {
+    "filename": "Frozen-20240613-2200-Auditorium 1.json",
+    "movieTitle": "Frozen",
+    "Year": 0,
+    "Genre": "",
+    "displayTime": "2024-06-13T22:00:00",
+    "auditorium": "Auditorium 1",
+    "LowPrice": 10.0,
+    "MediumPrice": 15.0,
+    "HighPrice": 13.0,
+    "HandicapPrice": 1.0
+  }
+]

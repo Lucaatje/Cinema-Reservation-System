@@ -1,0 +1,877 @@
+{
+  "auditoriums": [
+    {
+      "name": "Auditorium 1",
+      "layout": [
+        [
+          {
+            "seat": "A1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "A2",
+            "reserved": "false",
+            "PriceRange": "handicap"
+          },
+          {
+            "seat": "A3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "A11",
+            "reserved": "false",
+            "PriceRange": "handicap"
+          },
+          {
+            "seat": "A12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ],
+        [
+          {
+            "seat": "B1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "B2",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "B3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "B11",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "B12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ],
+        [
+          {
+            "seat": "C1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "C2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "C12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ],
+        [
+          {
+            "seat": "D1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D6",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "D7",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "D8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "D12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "E1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "E6",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "E7",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "E8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "E9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "E12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "F1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "F2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "F3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "F4",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "F5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "F6",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "F7",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "F8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "F9",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "F10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "F11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "F12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "G1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "G2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "G3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "G4",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "G5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "G6",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "G7",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "G8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "G9",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "G10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "G11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "G12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "H1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "H2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "H3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "H4",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "H5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "H6",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "H7",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "H8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "H9",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "H10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "H11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "H12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "I1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "I2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "I3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "I4",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "I5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "I6",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "I7",
+            "reserved": "false",
+            "PriceRange": "high"
+          },
+          {
+            "seat": "I8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "I9",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "I10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "I11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "I12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "J1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J5",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "J6",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "J7",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "J8",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "J9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "J12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "K1",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K6",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "K7",
+            "reserved": "false",
+            "PriceRange": "Medium"
+          },
+          {
+            "seat": "K8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "K12",
+            "reserved": "false",
+            "PriceRange": "low"
+          }
+        ],
+        [
+          {
+            "seat": "L1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "L2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "L12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ],
+        [
+          {
+            "seat": "M1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "M2",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M11",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "M12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ],
+        [
+          {
+            "seat": "N1",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "N2",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "N3",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N4",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N5",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N6",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N7",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N8",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N9",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N10",
+            "reserved": "false",
+            "PriceRange": "low"
+          },
+          {
+            "seat": "N11",
+            "reserved": "unavailable",
+            "PriceRange": null
+          },
+          {
+            "seat": "N12",
+            "reserved": "unavailable",
+            "PriceRange": null
+          }
+        ]
+      ]
+    }
+  ]
+}
